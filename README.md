@@ -3,7 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
-A few page screen from our app
+It is a vehicle service maintenance mobile application so that people can better evaluate their time.
+
 
 ![1](https://user-images.githubusercontent.com/81584567/151329296-ed866c17-592d-4b46-8a4d-6d1740d89586.png)
 ![2](https://user-images.githubusercontent.com/81584567/151329312-d0c55cb6-faf0-46f2-a32b-34066cded6dc.png)
